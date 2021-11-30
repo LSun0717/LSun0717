@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on java web and object detection
 - 📫 How to reach me: LSun0717@163.com
 - ⚡ Undergratuate Student: NCHU
-- ⚡ Gratuate Student: GZU
+- ⚡ Graduate Student: GZU
 - ⚡ rock & roll, automobile, Premier League， NBA
 -->
